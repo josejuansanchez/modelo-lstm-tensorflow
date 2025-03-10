@@ -20,7 +20,8 @@ Los pasos que se han seguido son:
 - [notebook](notebook/ejemplo_modelo_lstm.ipynb): Se trata de un notebook de
   [Google Colab][2] que contiene el código fuente del modelo LSTM en
   [TensorFlow/Keras][1] para [Python][3].
-- [dataset](dataset/tsetdesordenado.txt): Contiene el dataset de entrenamiento.
+- [dataset](dataset/tsetdesordenado.txt): Contiene el dataset de entrenamiento
+  desordenado.
 
 ## Créditos
 
