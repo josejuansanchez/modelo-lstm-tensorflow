@@ -8,9 +8,9 @@ una frase de un cliente y clasificarla en una de las siguientes categorías:
 - OK
 - SERVICIO_TECNICO
 
-Los pasos que vamos a seguir son:
+Los pasos que se han seguido son:
 
-- Cargar un dataset con los datos de entrenamiento.
+- Cargar un _dataset_ con los datos de entrenamiento.
 - Construir un modelo de una red reuronal de tipo LSTM capaz de analizar texto.
 - Entrenar la red neuronal.
 - Evaluar la precisión del modelo.
@@ -25,8 +25,8 @@ Los pasos que vamos a seguir son:
 ## Créditos
 
 Este ejemplo está basado en el código desarrollado por [José Antonio Torres
-Ariaza](https://www.ual.es/persona/535053495455545772), sólo se han modificado
-algunos pequeños detalles.
+Ariaza](https://www.ual.es/persona/535053495455545772). Sólo se han modificado
+algunos pequeños detalles del código original.
 
 [1]: https://tensorflow.org
 [2]: https://colab.research.google.com
