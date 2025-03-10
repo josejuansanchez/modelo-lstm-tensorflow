@@ -1,0 +1,571 @@
+Requiero asesoramiento técnico en mi domicilio : SERVICIO_TECNICO
+Hemos completado con éxito las reparaciones del equipo : OK
+Por favor, ¿puedes asistirme con esto? : AYUDA
+Estoy buscando un profesional que pueda venir a mi residencia : SERVICIO_TECNICO
+El equipo ha sido restaurado y está funcionando de manera óptima : OK
+Hemos completado con éxito todas las reparaciones del equipo : OK
+El equipo requiere la presencia de un técnico en mi hogar : SERVICIO_TECNICO
+Estoy en un aprieto, necesito tu asistencia : AYUDA
+Las correcciones han dado resultado y el equipo está en funcionamiento una vez más : OK
+Estoy solicitando un servicio de revisión de equipo a domicilio : SERVICIO_TECNICO
+Las correcciones han dado resultado y el equipo está operativo de nuevo : OK
+El equipo está de vuelta en acción : OK
+Las reparaciones se han completado de manera exitosa : OK
+Necesito que un técnico esté presente en mi casa : SERVICIO_TECNICO
+Las correcciones han dado resultado y el equipo está operativo de nuevo de manera efectiva : OK
+El equipo ha sido reparado y está funcionando sin problemas : OK
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+No puedo hacerlo solo, ¿puedes brindarme tu ayuda? : AYUDA
+¿Pueden enviar a un técnico a mi residencia para inspeccionar el equipo? : SERVICIO_TECNICO
+Necesito que un técnico esté presente en mi casa : SERVICIO_TECNICO
+Estoy en un dilema, necesito orientación : AYUDA
+Por favor, asísteme, estoy bloqueado : AYUDA
+Estoy en un callejón sin salida, ¿puedes ayudarme? : AYUDA
+Estoy solicitando un servicio de revisión de equipo a domicilio : SERVICIO_TECNICO
+Estoy en un aprieto, necesito tu asistencia : AYUDA
+¿Puedes socorrerme con esto? : AYUDA
+Necesito que un profesional venga a mi casa para inspeccionar el equipo : SERVICIO_TECNICO
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+Estoy atascado, necesito que me saquen de aquí : AYUDA
+El equipo ha sido restaurado y está funcionando de manera eficaz : OK
+Las correcciones han dado resultado y el equipo está operativo de nuevo : OK
+El sistema funciona perfectamente : OK
+Por favor, envíen a un experto para que examine el equipo en mi hogar : SERVICIO_TECNICO
+Necesito que un profesional venga a mi casa para inspeccionar el equipo : SERVICIO_TECNICO
+Necesito apoyo, no sé cómo resolverlo por mí mismo : AYUDA
+Estoy en un dilema, necesito orientación : AYUDA
+Esto está fatal : AYUDA
+El equipo ha sido reparado y está en su punto óptimo de funcionamiento : OK
+El equipo requiere la presencia de un técnico en mi hogar : SERVICIO_TECNICO
+¿Puedes brindarme alguna orientación? : AYUDA
+El equipo ha sido rehabilitado y está en su punto óptimo de funcionamiento : OK
+¿Alguien podría darme una ayuda? : AYUDA
+Todo está en su lugar en el equipo : OK
+Necesito que alguien venga a mi casa para verificar el equipo : SERVICIO_TECNICO
+Necesito que un profesional venga a mi casa para inspeccionar el equipo : SERVICIO_TECNICO
+Requiero asesoramiento técnico en mi domicilio : SERVICIO_TECNICO
+El equipo está de nuevo en marcha : OK
+Requiero asesoramiento técnico en mi domicilio : SERVICIO_TECNICO
+No puedo resolverlo por mí mismo, requiero guía : AYUDA
+Estoy en un callejón sin salida, necesito tu ayuda : AYUDA
+Requiero asistencia de un técnico en mi domicilio : SERVICIO_TECNICO
+Hemos completado con éxito todas las reparaciones del equipo : OK
+El equipo ha sido reparado y está en excelentes condiciones : OK
+El equipo está en su punto máximo de funcionamiento : OK
+Las reparaciones se han completado satisfactoriamente : OK
+El equipo está en su punto máximo de funcionamiento : OK
+Necesito que un técnico esté disponible en mi casa : SERVICIO_TECNICO
+Requiero asesoramiento técnico en mi domicilio : SERVICIO_TECNICO
+¿Puedes guiarme en esto? : AYUDA
+El equipo está en pleno rendimiento : OK
+Estoy en un problema, ¿puedes socorrerme? : AYUDA
+¿Alguien puede prestarme asesoramiento? : AYUDA
+Estoy en una situación complicada, necesito guía : AYUDA
+No tengo idea de qué hacer, ¿puedes socorrerme? : AYUDA
+Necesito que un técnico esté disponible en mi casa : SERVICIO_TECNICO
+¿Puedes ofrecerme alguna dirección? : AYUDA
+Todo está en orden en el equipo : OK
+Por favor, agenden una visita técnica en mi hogar : SERVICIO_TECNICO
+Requiero asistencia de un técnico en mi domicilio : SERVICIO_TECNICO
+Por favor, envíen a un experto para que examine el equipo en mi hogar : SERVICIO_TECNICO
+Estoy atrapado, ¿puedes socorrerme? : AYUDA
+¿Puedes socorrerme con esto? : AYUDA
+El equipo está en su máxima capacidad de operación : OK
+Estoy en problemas, ¿puedes orientarme? : AYUDA
+Por favor, ¿puedes asistirme con esto? : AYUDA
+Hemos superado con éxito todos los problemas del equipo : OK
+¿Alguien podría darme una ayuda? : AYUDA
+Hemos resuelto con éxito todos los problemas del equipo : OK
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+Por favor, envíen a alguien para que revise el equipo en mi hogar : SERVICIO_TECNICO
+Estoy en un aprieto, necesito tu apoyo : AYUDA
+No tengo idea de qué hacer, ¿puedes socorrerme? : AYUDA
+Por favor, envíen a un experto para que examine el equipo en mi hogar : SERVICIO_TECNICO
+Estoy en un callejón sin salida, necesito tu apoyo : AYUDA
+El equipo ha sido restablecido a su máximo funcionamiento : OK
+Estoy completamente perdido, ¿puedes brindarme tu ayuda? : AYUDA
+Por favor, agenden una visita de un técnico en mi hogar : SERVICIO_TECNICO
+¿Alguien podría darme una mano? : AYUDA
+El equipo ha sido restaurado y está operativo de manera eficaz : OK
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+Estoy bloqueado, ¿puedes echarme un cable? : AYUDA
+¿Puedes darme alguna dirección? : AYUDA
+Necesito apoyo, no puedo hacerlo por mí mismo : AYUDA
+Estoy en problemas, ¿puedes socorrerme? : AYUDA
+El equipo ha sido rehabilitado y está en su máximo potencial : OK
+Por favor, ¿puedes asistirme con esto? : AYUDA
+¿Alguien puede darme una mano? : AYUDA
+El equipo ha sido rehabilitado y está en condiciones ideales : OK
+Necesito que un técnico esté disponible en mi casa : SERVICIO_TECNICO
+Estoy bloqueado, ¿puedes echarme un cable? : AYUDA
+Las reparaciones han tenido éxito y el equipo está operativo : OK
+El equipo está en su mejor estado de funcionamiento : OK
+Estoy en una situación complicada, necesito guía : AYUDA
+Requiero asistencia de un técnico en mi domicilio : SERVICIO_TECNICO
+El equipo ha sido reparado y está en su mejor estado : OK
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+¿Pueden programar una visita de un técnico a mi residencia? : SERVICIO_TECNICO
+El equipo ha sido reparado y está en excelentes condiciones : OK
+El equipo ha sido reparado y está en buen estado de funcionamiento : OK
+El equipo ha sido restaurado y está funcionando de manera eficaz : OK
+El equipo ha sido reparado y está listo para usar : OK
+Estoy buscando un técnico que pueda venir a mi residencia : SERVICIO_TECNICO
+El equipo ha vuelto a la normalidad : OK
+Necesito ayuda, no puedo resolverlo por mí mismo : AYUDA
+El equipo ha sido restablecido con éxito : OK
+Estoy en un callejón sin salida, necesito tu apoyo : AYUDA
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo? : SERVICIO_TECNICO
+Hemos superado con éxito todos los problemas del equipo : OK
+El equipo está en pleno funcionamiento : OK
+Estoy buscando un técnico que pueda venir a mi residencia : SERVICIO_TECNICO
+¿Alguien puede prestarme asesoramiento? : AYUDA
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+¿Alguien puede prestarme asesoramiento? : AYUDA
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+Por favor, envíen a un experto para que examine el equipo en mi hogar : SERVICIO_TECNICO
+Por favor, envíen a un experto para que examine el equipo en mi hogar : SERVICIO_TECNICO
+Necesito apoyo, no sé cómo resolverlo por mí mismo : AYUDA
+Por favor, agenden una visita técnica en mi hogar : SERVICIO_TECNICO
+El equipo ha sido rehabilitado : OK
+Necesito que alguien venga a mi casa para verificar el equipo : SERVICIO_TECNICO
+Estoy perdido, ¿puedes socorrerme? : AYUDA
+El equipo ha sido restablecido a su máximo rendimiento con éxito : OK
+Estoy bloqueado, ¿puedes echarme un cable? : AYUDA
+¿Puedes darme alguna orientación? : AYUDA
+Necesito que alguien venga a mi casa para verificar el equipo : SERVICIO_TECNICO
+Necesito que me echen un cable con esto : AYUDA
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+Hemos superado los problemas del equipo : OK
+Por favor, agenden una cita para que un técnico venga a mi hogar : SERVICIO_TECNICO
+El equipo ha sido rehabilitado y está en su máximo potencial : OK
+Necesito que un técnico esté disponible en mi casa : SERVICIO_TECNICO
+El equipo necesita la atención de un técnico en mi hogar : SERVICIO_TECNICO
+El equipo ha sido restablecido con éxito a su pleno funcionamiento : OK
+¿Alguien podría darme una ayuda? : AYUDA
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia? : SERVICIO_TECNICO
+Necesito que un profesional venga a mi casa para inspeccionar el equipo : SERVICIO_TECNICO
+El equipo ha sido arreglado y está funcionando correctamente : OK
+Necesito apoyo, no sé cómo resolverlo por mí mismo : AYUDA
+El equipo ha sido restablecido con éxito a su pleno funcionamiento : OK
+No puedo hacerlo solo, necesito apoyo : AYUDA
+Por favor, envíen a alguien para que examine el equipo en mi hogar : SERVICIO_TECNICO
+Necesito que me echen una mano con esto : AYUDA
+Requiero asesoramiento técnico en mi domicilio : SERVICIO_TECNICO
+Estoy atrapado, ¿puedes socorrerme? : AYUDA
+Por favor, envíen a alguien para que revise el equipo en mi hogar : SERVICIO_TECNICO
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo? : SERVICIO_TECNICO
+No tengo idea de qué hacer, necesito orientación : AYUDA
+El equipo ha sido reparado y está operativo una vez más : OK
+Necesito que un técnico esté disponible en mi casa : SERVICIO_TECNICO
+Estoy en un callejón sin salida, necesito tu apoyo : AYUDA
+El equipo ha sido rehabilitado y está en condiciones óptimas : OK
+Necesito que un profesional venga a mi casa para inspeccionar el equipo : SERVICIO_TECNICO
+No puedo resolverlo por mí mismo, requiero apoyo : AYUDA
+¿Puedes proporcionarme un poco de orientación? : AYUDA
+El equipo necesita la atención de un técnico en mi hogar : SERVICIO_TECNICO
+No puedo hacerlo solo, necesito que alguien me apoye : AYUDA
+Las correcciones han dado resultado y el equipo está en funcionamiento una vez más : OK
+El equipo ha sido restablecido con éxito a su máximo potencial : OK
+Estoy en un callejón sin salida, necesito tu apoyo : AYUDA
+Hemos resuelto con éxito todos los problemas del equipo : OK
+El equipo ha sido restaurado y está funcionando de manera efectiva : OK
+El equipo ha sido reparado y está en excelente estado : OK
+Estoy solicitando una visita de un técnico a mi casa : SERVICIO_TECNICO
+Los problemas del equipo han sido resueltos : OK
+Por favor, envíen a un experto para que evalúe el equipo en mi hogar : SERVICIO_TECNICO
+Estoy completamente perdido, ¿puedes brindarme tu ayuda? : AYUDA
+El equipo ha sido restaurado y está funcionando eficientemente : OK
+El equipo está en su mejor estado de funcionamiento : OK
+El equipo está funcionando sin problemas : OK
+¿Puedes proporcionarme un poco de guía? : AYUDA
+Hemos resuelto con éxito todos los problemas del equipo : OK
+El equipo requiere la presencia de un técnico en mi hogar : SERVICIO_TECNICO
+El equipo ha vuelto a su funcionamiento habitual : OK
+El equipo ha sido restablecido con éxito : OK
+El equipo ha sido rehabilitado y está en excelentes condiciones : OK
+¿Puedes echarme una mano? : AYUDA
+El equipo requiere de un técnico en mi hogar : SERVICIO_TECNICO
+Estoy solicitando la asistencia de un técnico a domicilio : SERVICIO_TECNICO
+Necesito ayuda, no puedo resolverlo por mí mismo : AYUDA
+Esto es un puñetero desastre : AYUDA
+¿Alguien puede prestarme asesoramiento? : AYUDA
+Por favor, agenden una visita de un técnico en mi hogar : SERVICIO_TECNICO
+El equipo ha sido reparado y está funcionando sin problemas : OK
+Requiero asistencia de un técnico en mi domicilio : SERVICIO_TECNICO
+¿Puedes darme una mano con esto? : AYUDA
+Hemos completado con éxito todas las reparaciones del equipo : OK
+El equipo ha sido reparado y está en pleno funcionamiento : OK
+Por favor, ayúdame, estoy atascado : AYUDA
+Estoy atrapado, ¿puedes echarme un cable? : AYUDA
+El equipo ha sido reparado y está funcionando de manera óptima : OK
+Por favor, ¿puedes darme un empujón con esto? : AYUDA
+Estoy completamente perdido, ¿puedes brindarme tu ayuda? : AYUDA
+Por favor, ayúdame, estoy en un aprieto : AYUDA
+Estoy en problemas, necesito que me saquen de aquí : AYUDA
+El equipo ha sido restaurado y funciona adecuadamente : OK
+Por favor, agenden una visita técnica en mi hogar : SERVICIO_TECNICO
+Estoy en una situación complicada, necesito guía : AYUDA
+Las reparaciones han dado sus frutos : OK
+Las reparaciones han tenido éxito y el equipo está operativo una vez más : OK
+El equipo ha sido restaurado y está funcionando de manera efectiva : OK
+Hemos resuelto con éxito todos los problemas del equipo : OK
+Hemos completado con éxito las reparaciones del equipo : OK
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+El equipo ha sido restablecido : OK
+El equipo necesita ser revisado por un técnico en mi casa : SERVICIO_TECNICO
+¿Puedes guiarme en esto? : AYUDA
+Todo está en orden en el equipo y funciona correctamente : OK
+Por favor, asísteme, estoy bloqueado : AYUDA
+El equipo ha sido restaurado y está funcionando de manera eficiente : OK
+Estoy solicitando la asistencia de un técnico a domicilio : SERVICIO_TECNICO
+El equipo ha sido restaurado y está funcionando de manera óptima : OK
+Estoy buscando un técnico que pueda venir a mi residencia : SERVICIO_TECNICO
+Necesito asistencia técnica en mi domicilio : SERVICIO_TECNICO
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+¿Alguien podría darme una ayuda rápida? : AYUDA
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia? : SERVICIO_TECNICO
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+Por favor, ¿puedes asistirme con esto? : AYUDA
+El equipo ha sido restablecido a su pleno funcionamiento : OK
+Estoy buscando un técnico que pueda venir a mi residencia : SERVICIO_TECNICO
+Requiero asistencia de un técnico en mi domicilio : SERVICIO_TECNICO
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+Hemos completado con éxito todas las reparaciones del equipo : OK
+El equipo ha sido restablecido con éxito a su pleno funcionamiento : OK
+Las reparaciones se han completado con éxito : OK
+¿Alguien puede prestarme asesoramiento? : AYUDA
+El equipo ha sido reparado y está funcionando de manera eficaz : OK
+Necesito que me echen una mano con esto : AYUDA
+¿Alguien puede prestarme asesoramiento? : AYUDA
+¿Alguien podría darme una ayuda? : AYUDA
+Estoy completamente perdido, necesito asesoramiento : AYUDA
+No puedo hacerlo solo, necesito que alguien me apoye : AYUDA
+El equipo ha sido reparado y está funcionando sin problemas : OK
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo? : SERVICIO_TECNICO
+Necesito ayuda, no puedo resolverlo por mí mismo : AYUDA
+El equipo está en su rendimiento óptimo : OK
+¿Puedes ofrecerme algún tipo de guía? : AYUDA
+Hemos completado con éxito todas las reparaciones del equipo : OK
+Necesito que alguien venga a mi casa para verificar el equipo : SERVICIO_TECNICO
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+Estoy buscando un profesional que pueda venir a mi residencia : SERVICIO_TECNICO
+¿Puedes darme una mano con esto? : AYUDA
+Necesito que un técnico esté presente en mi casa : SERVICIO_TECNICO
+Requiero asistencia, no sé cómo hacerlo : AYUDA
+Hemos completado con éxito las reparaciones del equipo : OK
+Todo ha sido solucionado en el equipo : OK
+El equipo ha sido reparado y está en óptimas condiciones : OK
+Hemos superado con éxito todos los problemas del equipo : OK
+Necesito ayuda, no puedo resolverlo por mí mismo : AYUDA
+El equipo está en su punto óptimo de funcionamiento : OK
+No tengo idea de qué hacer, ¿puedes socorrerme? : AYUDA
+El equipo ha sido restaurado y está funcionando de manera eficaz : OK
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo? : SERVICIO_TECNICO
+¿Puedes proporcionarme algún apoyo? : AYUDA
+Por favor, agenden una visita de un técnico en mi hogar : SERVICIO_TECNICO
+El equipo ha sido rehabilitado y está en excelentes condiciones : OK
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+Por favor, ayúdame, estoy en un dilema : AYUDA
+Estoy bloqueado, ¿puedes echarme un cable? : AYUDA
+El equipo ha sido reparado y está en condiciones óptimas : OK
+El equipo está en su mejor estado de funcionamiento : OK
+Estoy buscando un técnico que pueda venir a mi residencia : SERVICIO_TECNICO
+Las correcciones han dado resultado y el equipo está operativo de nuevo de manera eficaz : OK
+Estoy atrapado, necesito que me saquen de aquí : AYUDA
+Necesito apoyo, no sé cómo resolverlo por mí mismo : AYUDA
+Hemos completado con éxito todas las reparaciones del equipo : OK
+¿Puedes ofrecerme alguna dirección? : AYUDA
+¿Puedes darme alguna orientación? : AYUDA
+¿Puedes darme una mano con esto? : AYUDA
+Requiero que un técnico venga a revisar el equipo en mi hogar : SERVICIO_TECNICO
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo? : SERVICIO_TECNICO
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+Por favor, ayúdame, estoy en un dilema : AYUDA
+Por favor, envíen a alguien para que revise el equipo en mi hogar : SERVICIO_TECNICO
+Estoy buscando servicio técnico a domicilio : SERVICIO_TECNICO
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia? : SERVICIO_TECNICO
+El equipo está en su máxima capacidad de operación : OK
+Estoy buscando un técnico que pueda venir a mi residencia : SERVICIO_TECNICO
+El equipo ha sido reparado y está en su máximo potencial : OK
+Estoy buscando un profesional que pueda venir a mi residencia : SERVICIO_TECNICO
+Estoy en un aprieto, necesito tu asistencia : AYUDA
+Necesito la presencia de un técnico en mi casa : SERVICIO_TECNICO
+El equipo ha sido restaurado y está funcionando de manera eficiente : OK
+No puedo hacerlo solo, requiero respaldo : AYUDA
+¿Pueden enviar a un especialista para que revise el equipo en mi residencia? : SERVICIO_TECNICO
+Estoy en una situación complicada, ¿puedes brindarme tu ayuda? : AYUDA
+El equipo ha sido restaurado y está funcionando de manera eficiente : OK
+El equipo ha sido reparado y está en su máximo estado : OK
+¿Alguien podría darme una ayuda? : AYUDA
+Por favor, ayúdame, estoy en un dilema : AYUDA
+Estoy buscando un profesional que pueda venir a mi residencia : SERVICIO_TECNICO
+No tengo idea de qué hacer, ¿puedes socorrerme? : AYUDA
+Estoy atrapado, necesito ayuda : AYUDA
+El equipo ha sido restablecido a su máximo rendimiento con éxito : OK
+¿Podrías proporcionarme alguna asistencia? : AYUDA
+El equipo ha sido restablecido con éxito a su pleno funcionamiento : OK
+Hemos completado con éxito las reparaciones del equipo : OK
+¿Puedes guiarme en esto? : AYUDA
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+Necesito que un técnico esté presente en mi casa : SERVICIO_TECNICO
+Estoy solicitando la asistencia de un técnico a domicilio : SERVICIO_TECNICO
+Por favor, envíen a alguien para que revise el equipo en mi hogar : SERVICIO_TECNICO
+El equipo requiere la presencia de un técnico en mi hogar : SERVICIO_TECNICO
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+Estoy buscando un profesional que pueda venir a mi residencia : SERVICIO_TECNICO
+Por favor, agenden una visita de un técnico en mi hogar : SERVICIO_TECNICO
+Hemos completado con éxito todas las reparaciones del equipo : OK
+Hemos superado los problemas del equipo con éxito : OK
+No tengo idea de qué hacer, ¿puedes socorrerme? : AYUDA
+Por favor, agenden una visita técnica en mi hogar : SERVICIO_TECNICO
+Por favor, asísteme, estoy desorientado : AYUDA
+Necesito que alguien venga a mi casa para verificar el equipo : SERVICIO_TECNICO
+Estoy solicitando la asistencia de un técnico a domicilio : SERVICIO_TECNICO
+¿Alguien puede prestarme asesoramiento? : AYUDA
+Por favor, ayúdame, estoy desorientado : AYUDA
+Hemos completado con éxito todas las reparaciones del equipo : OK
+Estoy solicitando un servicio de revisión de equipo a domicilio : SERVICIO_TECNICO
+¿Alguien podría darme una ayuda? : AYUDA
+Requiero asistencia, no tengo la menor idea de qué hacer : AYUDA
+¿Puedes guiarme en esto? : AYUDA
+Estoy atrapado, ¿puedes socorrerme? : AYUDA
+Hemos solucionado los problemas del equipo : OK
+Los problemas del equipo han sido abordados con éxito : OK
+El equipo ha sido reparado y está en su máximo estado : OK
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+Necesito que un técnico esté presente en mi casa : SERVICIO_TECNICO
+Por favor, agenden una visita técnica en mi hogar : SERVICIO_TECNICO
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia? : SERVICIO_TECNICO
+Estoy en problemas, necesito que me saquen de aquí : AYUDA
+Por favor, ayúdame, estoy en un dilema : AYUDA
+El equipo está en su máximo rendimiento : OK
+Estoy buscando un técnico que pueda venir a mi residencia : SERVICIO_TECNICO
+Hemos resuelto todos los problemas del equipo de manera satisfactoria : OK
+Necesito que un técnico esté presente en mi casa : SERVICIO_TECNICO
+El equipo ha sido rehabilitado y está en excelentes condiciones : OK
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia? : SERVICIO_TECNICO
+¿Alguien puede prestarme ayuda? : AYUDA
+Todas las cuestiones del equipo han sido resueltas con éxito : OK
+El equipo está en su punto máximo de funcionamiento : OK
+El equipo ha sido restablecido a su máximo potencial : OK
+El equipo está de nuevo en funcionamiento : OK
+Necesito que me echen una mano con esto : AYUDA
+El equipo necesita la atención de un técnico en mi hogar : SERVICIO_TECNICO
+Requiero asistencia, no tengo la menor idea de qué hacer : AYUDA
+Estoy solicitando un servicio de revisión de equipo a domicilio : SERVICIO_TECNICO
+Las correcciones han dado resultado y el equipo está en funcionamiento una vez más : OK
+¿Puedes guiarme en esto? : AYUDA
+Las correcciones han dado resultado y el equipo está operativo de nuevo de manera eficiente : OK
+No puedo hacerlo solo, necesito que alguien me apoye : AYUDA
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo? : SERVICIO_TECNICO
+Estoy en problemas, necesito que me saquen de aquí : AYUDA
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+El equipo ha sido reparado y está en su punto óptimo de funcionamiento : OK
+Hemos completado con éxito todas las reparaciones del equipo : OK
+El equipo ha sido reparado y está en funcionamiento : OK
+Estoy en un apuro, ¿puedes auxiliarme? : AYUDA
+Estoy bloqueado, necesito tu asistencia : AYUDA
+Requiero asistencia, no tengo la menor idea de qué hacer : AYUDA
+Hemos resuelto con éxito todos los problemas del equipo : OK
+Por favor, ¿puedes asistirme con esto? : AYUDA
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+No tengo idea de qué hacer, necesito orientación : AYUDA
+El equipo ha sido reparado y está en buen estado : OK
+Estoy buscando un técnico que pueda venir a mi residencia : SERVICIO_TECNICO
+Estoy completamente perdido, necesito orientación : AYUDA
+El equipo ha sido restaurado y funciona adecuadamente : OK
+Estoy en una situación complicada, ¿puedes darme una mano? : AYUDA
+El equipo está en su mejor estado de funcionamiento : OK
+El equipo ha sido reparado y está funcionando sin problemas : OK
+Necesito apoyo, no sé cómo resolverlo por mí mismo : AYUDA
+Necesito que un técnico esté presente en mi casa : SERVICIO_TECNICO
+Hemos resuelto con éxito todos los problemas del equipo de manera satisfactoria : OK
+Requiero asistencia, no tengo la menor idea de qué hacer : AYUDA
+Hemos completado con éxito las reparaciones del equipo : OK
+No tengo idea de qué hacer, ¿puedes socorrerme? : AYUDA
+Las correcciones han dado resultado y el equipo está operativo de nuevo de manera eficaz : OK
+No sé por dónde empezar, ¿puedes orientarme? : AYUDA
+Necesito que un técnico esté disponible en mi casa : SERVICIO_TECNICO
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia? : SERVICIO_TECNICO
+¿Puedes darme alguna orientación? : AYUDA
+¿Puedes ofrecerme alguna guía? : AYUDA
+El equipo ha sido restaurado y está operativo : OK
+Todas las reparaciones han sido exitosas : OK
+¿Puedes darme alguna orientación? : AYUDA
+Por favor, envíen a un experto para que examine el equipo en mi hogar : SERVICIO_TECNICO
+Estoy perdido, ¿puedes socorrerme? : AYUDA
+Por favor, envíen a alguien para que revise el equipo en mi hogar : SERVICIO_TECNICO
+Requiero asistencia de un técnico en mi domicilio : SERVICIO_TECNICO
+Estoy en un aprieto, necesito que me auxilien : AYUDA
+El equipo ha sido restaurado con éxito : OK
+Estoy en una situación complicada, necesito guía : AYUDA
+Estoy en un callejón sin salida, necesito tu apoyo : AYUDA
+El equipo está en excelentes condiciones : OK
+Estoy bloqueado, necesito asistencia : AYUDA
+Las reparaciones han sido exitosas : OK
+Necesito ayuda, no puedo resolverlo por mí mismo : AYUDA
+Requiero asesoramiento técnico en mi domicilio : SERVICIO_TECNICO
+Se han realizado las correcciones necesarias en el equipo : OK
+El equipo necesita la atención de un técnico en mi hogar : SERVICIO_TECNICO
+Por favor, ¿puedes asistirme con esto? : AYUDA
+Estoy completamente perdido, ¿puedes brindarme tu ayuda? : AYUDA
+Las correcciones han dado resultado y el equipo está operativo de nuevo de manera óptima : OK
+No puedo hacerlo solo, necesito que alguien me apoye : AYUDA
+El equipo ha sido restablecido a su máximo rendimiento : OK
+Estoy completamente perdido, ¿puedes brindarme tu ayuda? : AYUDA
+El equipo necesita la atención de un técnico en mi hogar : SERVICIO_TECNICO
+Estoy en una situación complicada, necesito guía : AYUDA
+Hemos resuelto todos los problemas del equipo : OK
+Estoy perdido, ¿puedes orientarme? : AYUDA
+Estoy en una situación complicada, necesito asesoramiento : AYUDA
+Necesito apoyo, no sé cómo resolverlo por mí mismo : AYUDA
+El equipo está en su punto máximo de funcionamiento : OK
+Hemos resuelto con éxito todos los problemas del equipo : OK
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia? : SERVICIO_TECNICO
+No puedo descifrarlo, ¿puedes brindarme tu ayuda? : AYUDA
+Necesito que un técnico esté disponible en mi casa : SERVICIO_TECNICO
+Estoy desorientado, necesito asistencia : AYUDA
+Requiero asesoramiento técnico en mi domicilio : SERVICIO_TECNICO
+Estoy en una situación complicada, ¿puedes auxiliarme? : AYUDA
+El equipo ha sido reparado y está funcionando sin problemas : OK
+Por favor, agenden una visita de un técnico en mi hogar : SERVICIO_TECNICO
+Estoy atrapado, ¿puedes socorrerme? : AYUDA
+Estoy atrapado, ¿puedes socorrerme? : AYUDA
+Estoy en problemas, necesito que me saquen de aquí : AYUDA
+Por favor, envíen a un profesional para inspeccionar el dispositivo en casa : SERVICIO_TECNICO
+El equipo ha sido reparado y está funcionando sin inconvenientes : OK
+Estoy buscando un profesional que pueda venir a mi residencia : SERVICIO_TECNICO
+Por favor, agenden una visita técnica en mi hogar : SERVICIO_TECNICO
+El equipo necesita la atención de un técnico en mi hogar : SERVICIO_TECNICO
+El equipo ha sido reparado y está en su punto óptimo de funcionamiento : OK
+Hemos resuelto con éxito todos los problemas del equipo : OK
+Necesito un poco de respaldo aquí : AYUDA
+Las correcciones han dado resultado y el equipo está operativo una vez más : OK
+Estoy en un callejón sin salida, necesito tu apoyo : AYUDA
+Estoy perdido, ¿puedes orientarme? : AYUDA
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+Necesito que un profesional venga a mi casa para inspeccionar el equipo : SERVICIO_TECNICO
+Las correcciones han dado resultado y el equipo está en funcionamiento una vez más : OK
+El equipo ha sido rehabilitado y está en excelentes condiciones : OK
+Estoy solicitando la asistencia de un técnico a domicilio : SERVICIO_TECNICO
+Estoy completamente perdido, necesito ayuda : AYUDA
+No tengo la menor idea de qué hacer, ¿me puedes socorrer? : AYUDA
+Por favor, agenden una visita de un técnico en mi hogar : SERVICIO_TECNICO
+Hemos superado con éxito todos los problemas del equipo : OK
+Requiero asistencia, no tengo la menor idea de qué hacer : AYUDA
+Todas las cuestiones del equipo han sido resueltas : OK
+Por favor, ayúdame, estoy en un dilema : AYUDA
+Requiero asistencia, no tengo la menor idea de qué hacer : AYUDA
+Todas las cuestiones del equipo han sido abordadas : OK
+Estoy perdido, ¿puedes orientarme? : AYUDA
+El equipo ha sido rehabilitado y está en excelentes condiciones : OK
+Necesito que me echen un cable aquí : AYUDA
+Necesito que alguien venga a mi domicilio para evaluar el equipo : SERVICIO_TECNICO
+Necesito ayuda, no puedo resolverlo por mí mismo : AYUDA
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo? : SERVICIO_TECNICO
+El equipo requiere la presencia de un técnico en mi hogar : SERVICIO_TECNICO
+Por favor, agenden una visita técnica en mi hogar : SERVICIO_TECNICO
+¿Puedes ofrecerme alguna dirección? : AYUDA
+El equipo ha sido restablecido a su máximo rendimiento con éxito : OK
+¿Puedes darme una mano con esto? : AYUDA
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+¿Puedes guiarme en esto? : AYUDA
+El equipo ha sido restablecido a su pleno funcionamiento : OK
+Las correcciones han dado resultado y el equipo está operativo : OK
+Por favor, envíen a alguien para que revise el equipo en mi hogar : SERVICIO_TECNICO
+Necesito que un profesional venga a mi casa para inspeccionar el equipo : SERVICIO_TECNICO
+¿Alguien podría darme una ayuda? : AYUDA
+Estoy solicitando la asistencia de un técnico a domicilio : SERVICIO_TECNICO
+El equipo ha sido reparado y está en perfecto estado : OK
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+Necesito apoyo, no puedo resolverlo por mí mismo : AYUDA
+Estoy en un aprieto, necesito tu asistencia : AYUDA
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia? : SERVICIO_TECNICO
+Hemos completado con éxito todas las reparaciones del equipo : OK
+Hemos superado con éxito los problemas del equipo : OK
+No puedo hacerlo solo, necesito que alguien me apoye : AYUDA
+Estoy en apuros, necesito tu ayuda : AYUDA
+Estoy en un aprieto, necesito tu asistencia : AYUDA
+El equipo ha sido rehabilitado y está funcionando correctamente : OK
+Estoy en problemas, necesito que me saquen de aquí : AYUDA
+Las correcciones han dado resultado y el equipo está operativo de nuevo : OK
+El equipo ha sido reparado y está funcionando sin problemas : OK
+Estoy en problemas, necesito que me saquen de aquí : AYUDA
+Por favor, envíen a alguien para que revise el equipo en mi hogar : SERVICIO_TECNICO
+¿Puedes guiarme en esto? : AYUDA
+¿Puedes guiarme? : AYUDA
+El equipo ha sido rehabilitado y está en su máximo potencial : OK
+Requiero asistencia de un técnico en mi domicilio : SERVICIO_TECNICO
+¿Puedes darme alguna orientación? : AYUDA
+El equipo ha sido restablecido con éxito a su máximo rendimiento : OK
+¿Puedes ofrecerme alguna dirección? : AYUDA
+Por favor, agenden una visita técnica en mi hogar : SERVICIO_TECNICO
+Estoy buscando un profesional que pueda venir a mi residencia : SERVICIO_TECNICO
+Requiero asistencia, no tengo la menor idea de qué hacer : AYUDA
+El equipo ha sido reparado y está en su mejor estado : OK
+Hemos superado con éxito todos los problemas del equipo : OK
+El equipo ha sido rehabilitado y está en perfectas condiciones : OK
+Por favor, agenden una visita de un técnico en mi hogar : SERVICIO_TECNICO
+¿Puedes darme alguna orientación? : AYUDA
+El equipo ha sido rehabilitado y está en condiciones ideales : OK
+Estoy perdido, ¿puedes orientarme? : AYUDA
+Hemos superado con éxito todos los problemas del equipo : OK
+El equipo ha sido reparado y está listo para su uso : OK
+Requiero asesoramiento técnico en mi domicilio : SERVICIO_TECNICO
+El equipo ha sido restaurado y está en pleno funcionamiento : OK
+Estoy solicitando la asistencia de un técnico a domicilio : SERVICIO_TECNICO
+El equipo necesita la atención de un técnico en mi hogar : SERVICIO_TECNICO
+Estoy en un dilema, necesito que me auxilien : AYUDA
+¿Pueden programar una cita para que un técnico venga a mi domicilio? : SERVICIO_TECNICO
+Necesito que alguien venga a mi casa para verificar el equipo : SERVICIO_TECNICO
+El equipo necesita la atención de un técnico en mi hogar : SERVICIO_TECNICO
+El equipo ha sido reparado y está funcionando sin inconvenientes : OK
+El equipo ha sido reparado y está funcionando sin inconvenientes : OK
+Requiero asistencia de un técnico en mi domicilio : SERVICIO_TECNICO
+Todas las fallas del equipo han sido corregidas : OK
+Estoy perdido, ¿puedes orientarme? : AYUDA
+El equipo está en perfectas condiciones : OK
+Necesito que alguien venga a mi casa para verificar el equipo : SERVICIO_TECNICO
+El equipo ha sido reparado y está operativo : OK
+No puedo hacerlo solo, requiero respaldo : AYUDA
+¿Alguien puede prestarme asistencia? : AYUDA
+Estoy solicitando un servicio de revisión de equipo a domicilio : SERVICIO_TECNICO
+El equipo ha sido rehabilitado y está en su máximo potencial : OK
+¿Puedes darme una mano con esto? : AYUDA
+Estoy solicitando un servicio de revisión de equipo a domicilio : SERVICIO_TECNICO
+¿Puedes darme un apoyo rápido? : AYUDA
+¿Puedes ofrecerme alguna dirección? : AYUDA
+Estoy buscando un profesional que pueda venir a mi residencia : SERVICIO_TECNICO
+¿Puedes darme una mano con esto? : AYUDA
+Necesito que alguien venga a mi casa para verificar el equipo : SERVICIO_TECNICO
+El equipo ha sido rehabilitado y está en su mejor estado de funcionamiento : OK
+Necesito que un profesional venga a mi casa para revisar el equipo : SERVICIO_TECNICO
+No puedo hacerlo solo, necesito que alguien me apoye : AYUDA
+Estoy bloqueado, ¿puedes echarme un cable? : AYUDA
+El equipo ha sido reparado y está en excelentes condiciones : OK
+El equipo ha sido rehabilitado y funciona adecuadamente : OK
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria : OK
+Necesito que un técnico esté presente en mi casa : SERVICIO_TECNICO
+Por favor, ¿puedes asistirme con esto? : AYUDA
+Estoy en problemas, necesito asesoramiento : AYUDA
+El equipo ha sido reparado y está funcionando sin problemas : OK
+No puedo hacerlo solo, requiero respaldo : AYUDA
+Las correcciones han dado resultado y el equipo está en funcionamiento una vez más de manera óptima : OK
+El equipo ha sido restablecido a su pleno funcionamiento con éxito : OK
+El equipo ha sido restaurado y está funcionando eficazmente : OK
+Por favor, ayúdame, estoy en un callejón sin salida : AYUDA
+El equipo requiere la presencia de un técnico en mi hogar : SERVICIO_TECNICO
+El equipo ha sido restablecido con éxito a su máximo rendimiento : OK
+Estoy atrapado, ¿puedes socorrerme? : AYUDA
+El equipo requiere la presencia de un técnico en mi hogar : SERVICIO_TECNICO
+¿Puedes ofrecerme alguna dirección? : AYUDA
+Estoy solicitando un servicio de revisión de equipo a domicilio : SERVICIO_TECNICO
+Estoy desorientado, ¿puedes ofrecerme un poco de respaldo? : AYUDA
+Por favor, envíen a un experto para que examine el equipo en mi hogar : SERVICIO_TECNICO
+Estoy solicitando un servicio de revisión de equipo a domicilio : SERVICIO_TECNICO
+El equipo ha sido restablecido a su estado original : OK
+No sé cómo arreglar esto : AYUDA
